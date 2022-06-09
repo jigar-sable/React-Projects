@@ -1,7 +1,7 @@
 # React-Projects
 Collection of projects built on the React library.
 
-[Visit Now](https://reactjs-projects.herokuapp.com) 🚀
+[Visit Now](https://reactjsprojects.herokuapp.com/) 🚀
 
 ## 🖥️ Tech Stack
 **Frontend:**
